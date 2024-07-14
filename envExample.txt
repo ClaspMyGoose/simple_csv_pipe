@@ -1,0 +1,5 @@
+user= database user 
+pwd= database password 
+host= database host
+port= database port
+db= database name 
